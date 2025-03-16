@@ -103,7 +103,7 @@ def menu_principal():
         print("2. Programar Cita")
         print("3. Consultar historial de servicios")
         print("4. Salir")
-        opc = input("Selecicion una opcion: ")
+        opc = input("Seleccione una opcion: ")
         
         if opc == "1":
             registrar_cliente()
